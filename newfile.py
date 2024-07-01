@@ -1,4 +1,4 @@
-import sys
+
 
 # Lista para almacenar los vehículos registrados
 vehiculos = []
