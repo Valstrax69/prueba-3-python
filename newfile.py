@@ -1,5 +1,4 @@
 
-
 # Lista para almacenar los vehículos registrados
 vehiculos = []
 
